@@ -1,0 +1,18 @@
+{
+  "name": "solaria",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.2.5",
+    "react": "^18",
+    "react-dom": "^18",
+    "recharts": "^2.12.7",
+    "@anthropic-ai/sdk": "^0.24.3",
+    "xml2js": "^0.6.2"
+  }
+}
